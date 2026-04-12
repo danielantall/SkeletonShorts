@@ -1,4 +1,4 @@
-# 🦴 MotionCreate — Skeleton Shorts Pipeline
+# 🦴 SkeletonShort - Become Viral 
 
 Automated pipeline that generates viral "What If" skeleton animation YouTube Shorts from a single prompt.
 
