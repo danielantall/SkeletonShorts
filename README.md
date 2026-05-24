@@ -1,8 +1,10 @@
 # 🦴 SkeletonShort - Become Viral 
 
+## Description
 Automated pipeline that generates viral "What If" skeleton animation YouTube Shorts from a single prompt.
 
-Making videos is tedious, why not make it easy to print out content which actually reaches the right users efficiently.
+## Motivation
+Making videos is tedious, why not make it easy to print out content which actually reaches the right users efficiently. SkeletonShorts automates this process by fulfilling script generation, video generation, and video compilation all in one pipeline.
 
 **Pipeline:** Script → Images → Video → Audio → Final Render
 
